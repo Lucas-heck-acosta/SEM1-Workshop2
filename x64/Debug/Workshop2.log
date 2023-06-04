@@ -1,0 +1,31 @@
+﻿  w2p2.c
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(88,70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(91,63): warning C4244: '=': conversion from 'const double' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(94,78): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(99,70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(102,63): warning C4244: '=': conversion from 'const double' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(105,78): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(110,70): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(113,63): warning C4244: '=': conversion from 'const double' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(116,78): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(154,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(158,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(162,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(163,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(166,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(167,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(170,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(171,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(174,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(175,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(192,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(196,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(200,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(201,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(204,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(205,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(208,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(209,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(212,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\lucas\source\repos\Workshop2\w2p2.c(213,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Workshop2.vcxproj -> C:\Users\lucas\source\repos\Workshop2\x64\Debug\Workshop2.exe
